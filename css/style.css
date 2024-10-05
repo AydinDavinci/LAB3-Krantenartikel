@@ -1,0 +1,23 @@
+body {
+    background-color: skyblue;
+}
+
+
+img {
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin: 20px;
+}
+
+#IMG1 {
+    float: left;
+}
+
+#IMG2 {
+    float: right;
+}
+
+#IMG3 {
+    float: left;
+}
